@@ -1,0 +1,1 @@
+This project demonstrates how webpack bundling works between two different modules. This is a demo to use in a larger enterprise project, Girls Code Club Interactive Code Notebook or gccbook as it's entitled in my repositories.
